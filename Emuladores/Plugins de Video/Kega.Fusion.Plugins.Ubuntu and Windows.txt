@@ -1,0 +1,2 @@
+Os Plugins do Ubuntu e do Windows já estão incluídos no pacote .deb e .zip respectivamente.
+Ubuntu and Windows Plguins is already included in the .deb and .zip packages respectively.

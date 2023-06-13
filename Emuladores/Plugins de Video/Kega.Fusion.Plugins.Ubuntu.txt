@@ -1,2 +1,0 @@
-Os Plugins do Ubuntu já estão incluídos no pacote .deb
-Ubuntu Plguins is already included in the .deb package
